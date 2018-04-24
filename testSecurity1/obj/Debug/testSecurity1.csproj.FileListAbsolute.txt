@@ -1,0 +1,114 @@
+c:\users\rubel\documents\visual studio 2013\Projects\testSecurity1\testSecurity1\bin\testSecurity1.dll.config
+c:\users\rubel\documents\visual studio 2013\Projects\testSecurity1\testSecurity1\bin\testSecurity1.dll
+c:\users\rubel\documents\visual studio 2013\Projects\testSecurity1\testSecurity1\bin\testSecurity1.pdb
+c:\users\rubel\documents\visual studio 2013\Projects\testSecurity1\testSecurity1\bin\Antlr3.Runtime.dll
+c:\users\rubel\documents\visual studio 2013\Projects\testSecurity1\testSecurity1\bin\EntityFramework.dll
+c:\users\rubel\documents\visual studio 2013\Projects\testSecurity1\testSecurity1\bin\EntityFramework.SqlServer.dll
+c:\users\rubel\documents\visual studio 2013\Projects\testSecurity1\testSecurity1\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\rubel\documents\visual studio 2013\Projects\testSecurity1\testSecurity1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\rubel\documents\visual studio 2013\Projects\testSecurity1\testSecurity1\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\rubel\documents\visual studio 2013\Projects\testSecurity1\testSecurity1\bin\Microsoft.Owin.dll
+c:\users\rubel\documents\visual studio 2013\Projects\testSecurity1\testSecurity1\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\rubel\documents\visual studio 2013\Projects\testSecurity1\testSecurity1\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\rubel\documents\visual studio 2013\Projects\testSecurity1\testSecurity1\bin\Microsoft.Owin.Security.dll
+c:\users\rubel\documents\visual studio 2013\Projects\testSecurity1\testSecurity1\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\rubel\documents\visual studio 2013\Projects\testSecurity1\testSecurity1\bin\Microsoft.Owin.Security.Google.dll
+c:\users\rubel\documents\visual studio 2013\Projects\testSecurity1\testSecurity1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\rubel\documents\visual studio 2013\Projects\testSecurity1\testSecurity1\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\rubel\documents\visual studio 2013\Projects\testSecurity1\testSecurity1\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\rubel\documents\visual studio 2013\Projects\testSecurity1\testSecurity1\bin\Microsoft.Web.Infrastructure.dll
+c:\users\rubel\documents\visual studio 2013\Projects\testSecurity1\testSecurity1\bin\Newtonsoft.Json.dll
+c:\users\rubel\documents\visual studio 2013\Projects\testSecurity1\testSecurity1\bin\Owin.dll
+c:\users\rubel\documents\visual studio 2013\Projects\testSecurity1\testSecurity1\bin\System.Web.Helpers.dll
+c:\users\rubel\documents\visual studio 2013\Projects\testSecurity1\testSecurity1\bin\System.Web.Mvc.dll
+c:\users\rubel\documents\visual studio 2013\Projects\testSecurity1\testSecurity1\bin\System.Web.Optimization.dll
+c:\users\rubel\documents\visual studio 2013\Projects\testSecurity1\testSecurity1\bin\System.Web.Razor.dll
+c:\users\rubel\documents\visual studio 2013\Projects\testSecurity1\testSecurity1\bin\System.Web.WebPages.Deployment.dll
+c:\users\rubel\documents\visual studio 2013\Projects\testSecurity1\testSecurity1\bin\System.Web.WebPages.dll
+c:\users\rubel\documents\visual studio 2013\Projects\testSecurity1\testSecurity1\bin\System.Web.WebPages.Razor.dll
+c:\users\rubel\documents\visual studio 2013\Projects\testSecurity1\testSecurity1\bin\WebGrease.dll
+c:\users\rubel\documents\visual studio 2013\Projects\testSecurity1\testSecurity1\bin\System.Web.Helpers.xml
+c:\users\rubel\documents\visual studio 2013\Projects\testSecurity1\testSecurity1\bin\System.Web.Mvc.xml
+c:\users\rubel\documents\visual studio 2013\Projects\testSecurity1\testSecurity1\bin\System.Web.Optimization.xml
+c:\users\rubel\documents\visual studio 2013\Projects\testSecurity1\testSecurity1\bin\System.Web.Razor.xml
+c:\users\rubel\documents\visual studio 2013\Projects\testSecurity1\testSecurity1\bin\System.Web.WebPages.xml
+c:\users\rubel\documents\visual studio 2013\Projects\testSecurity1\testSecurity1\bin\System.Web.WebPages.Deployment.xml
+c:\users\rubel\documents\visual studio 2013\Projects\testSecurity1\testSecurity1\bin\System.Web.WebPages.Razor.xml
+c:\users\rubel\documents\visual studio 2013\Projects\testSecurity1\testSecurity1\bin\Antlr3.Runtime.pdb
+c:\users\rubel\documents\visual studio 2013\Projects\testSecurity1\testSecurity1\bin\Newtonsoft.Json.xml
+c:\users\rubel\documents\visual studio 2013\Projects\testSecurity1\testSecurity1\bin\EntityFramework.xml
+c:\users\rubel\documents\visual studio 2013\Projects\testSecurity1\testSecurity1\bin\EntityFramework.SqlServer.xml
+c:\users\rubel\documents\visual studio 2013\Projects\testSecurity1\testSecurity1\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\rubel\documents\visual studio 2013\Projects\testSecurity1\testSecurity1\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\rubel\documents\visual studio 2013\Projects\testSecurity1\testSecurity1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\rubel\documents\visual studio 2013\Projects\testSecurity1\testSecurity1\bin\Microsoft.Owin.xml
+c:\users\rubel\documents\visual studio 2013\Projects\testSecurity1\testSecurity1\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\rubel\documents\visual studio 2013\Projects\testSecurity1\testSecurity1\bin\Microsoft.Owin.Security.xml
+c:\users\rubel\documents\visual studio 2013\Projects\testSecurity1\testSecurity1\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\rubel\documents\visual studio 2013\Projects\testSecurity1\testSecurity1\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\rubel\documents\visual studio 2013\Projects\testSecurity1\testSecurity1\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\rubel\documents\visual studio 2013\Projects\testSecurity1\testSecurity1\bin\Microsoft.Owin.Security.Google.xml
+c:\users\rubel\documents\visual studio 2013\Projects\testSecurity1\testSecurity1\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\rubel\documents\visual studio 2013\Projects\testSecurity1\testSecurity1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\rubel\documents\visual studio 2013\Projects\testSecurity1\testSecurity1\obj\Debug\testSecurity1.dll
+c:\users\rubel\documents\visual studio 2013\Projects\testSecurity1\testSecurity1\obj\Debug\testSecurity1.pdb
+c:\users\rubel\documents\visual studio 2013\Projects\testSecurity1\testSecurity1\bin\SendGrid.SmtpApi.dll
+c:\users\rubel\documents\visual studio 2013\Projects\testSecurity1\testSecurity1\bin\SendGridMail.dll
+C:\Users\Rubel\documents\visual studio 2013\Projects\testSecurity1\testSecurity1\obj\Debug\testSecurity1.csprojResolveAssemblyReference.cache
+E:\Rubel_Necessaries\learning\testSecurity1\testSecurity1\bin\testSecurity1.dll.config
+E:\Rubel_Necessaries\learning\testSecurity1\testSecurity1\bin\testSecurity1.dll
+E:\Rubel_Necessaries\learning\testSecurity1\testSecurity1\bin\testSecurity1.pdb
+E:\Rubel_Necessaries\learning\testSecurity1\testSecurity1\bin\Antlr3.Runtime.dll
+E:\Rubel_Necessaries\learning\testSecurity1\testSecurity1\bin\EntityFramework.dll
+E:\Rubel_Necessaries\learning\testSecurity1\testSecurity1\bin\EntityFramework.SqlServer.dll
+E:\Rubel_Necessaries\learning\testSecurity1\testSecurity1\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Rubel_Necessaries\learning\testSecurity1\testSecurity1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Rubel_Necessaries\learning\testSecurity1\testSecurity1\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Rubel_Necessaries\learning\testSecurity1\testSecurity1\bin\Microsoft.Owin.dll
+E:\Rubel_Necessaries\learning\testSecurity1\testSecurity1\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Rubel_Necessaries\learning\testSecurity1\testSecurity1\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Rubel_Necessaries\learning\testSecurity1\testSecurity1\bin\Microsoft.Owin.Security.dll
+E:\Rubel_Necessaries\learning\testSecurity1\testSecurity1\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Rubel_Necessaries\learning\testSecurity1\testSecurity1\bin\Microsoft.Owin.Security.Google.dll
+E:\Rubel_Necessaries\learning\testSecurity1\testSecurity1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Rubel_Necessaries\learning\testSecurity1\testSecurity1\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Rubel_Necessaries\learning\testSecurity1\testSecurity1\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Rubel_Necessaries\learning\testSecurity1\testSecurity1\bin\Microsoft.Web.Infrastructure.dll
+E:\Rubel_Necessaries\learning\testSecurity1\testSecurity1\bin\Newtonsoft.Json.dll
+E:\Rubel_Necessaries\learning\testSecurity1\testSecurity1\bin\Owin.dll
+E:\Rubel_Necessaries\learning\testSecurity1\testSecurity1\bin\SendGrid.SmtpApi.dll
+E:\Rubel_Necessaries\learning\testSecurity1\testSecurity1\bin\SendGridMail.dll
+E:\Rubel_Necessaries\learning\testSecurity1\testSecurity1\bin\System.Web.Helpers.dll
+E:\Rubel_Necessaries\learning\testSecurity1\testSecurity1\bin\System.Web.Mvc.dll
+E:\Rubel_Necessaries\learning\testSecurity1\testSecurity1\bin\System.Web.Optimization.dll
+E:\Rubel_Necessaries\learning\testSecurity1\testSecurity1\bin\System.Web.Razor.dll
+E:\Rubel_Necessaries\learning\testSecurity1\testSecurity1\bin\System.Web.WebPages.Deployment.dll
+E:\Rubel_Necessaries\learning\testSecurity1\testSecurity1\bin\System.Web.WebPages.dll
+E:\Rubel_Necessaries\learning\testSecurity1\testSecurity1\bin\System.Web.WebPages.Razor.dll
+E:\Rubel_Necessaries\learning\testSecurity1\testSecurity1\bin\WebGrease.dll
+E:\Rubel_Necessaries\learning\testSecurity1\testSecurity1\bin\System.Web.Helpers.xml
+E:\Rubel_Necessaries\learning\testSecurity1\testSecurity1\bin\System.Web.Mvc.xml
+E:\Rubel_Necessaries\learning\testSecurity1\testSecurity1\bin\System.Web.Optimization.xml
+E:\Rubel_Necessaries\learning\testSecurity1\testSecurity1\bin\System.Web.Razor.xml
+E:\Rubel_Necessaries\learning\testSecurity1\testSecurity1\bin\System.Web.WebPages.xml
+E:\Rubel_Necessaries\learning\testSecurity1\testSecurity1\bin\System.Web.WebPages.Deployment.xml
+E:\Rubel_Necessaries\learning\testSecurity1\testSecurity1\bin\System.Web.WebPages.Razor.xml
+E:\Rubel_Necessaries\learning\testSecurity1\testSecurity1\bin\Antlr3.Runtime.pdb
+E:\Rubel_Necessaries\learning\testSecurity1\testSecurity1\bin\Newtonsoft.Json.xml
+E:\Rubel_Necessaries\learning\testSecurity1\testSecurity1\bin\EntityFramework.xml
+E:\Rubel_Necessaries\learning\testSecurity1\testSecurity1\bin\EntityFramework.SqlServer.xml
+E:\Rubel_Necessaries\learning\testSecurity1\testSecurity1\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Rubel_Necessaries\learning\testSecurity1\testSecurity1\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Rubel_Necessaries\learning\testSecurity1\testSecurity1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Rubel_Necessaries\learning\testSecurity1\testSecurity1\bin\Microsoft.Owin.xml
+E:\Rubel_Necessaries\learning\testSecurity1\testSecurity1\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Rubel_Necessaries\learning\testSecurity1\testSecurity1\bin\Microsoft.Owin.Security.xml
+E:\Rubel_Necessaries\learning\testSecurity1\testSecurity1\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Rubel_Necessaries\learning\testSecurity1\testSecurity1\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Rubel_Necessaries\learning\testSecurity1\testSecurity1\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Rubel_Necessaries\learning\testSecurity1\testSecurity1\bin\Microsoft.Owin.Security.Google.xml
+E:\Rubel_Necessaries\learning\testSecurity1\testSecurity1\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Rubel_Necessaries\learning\testSecurity1\testSecurity1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Rubel_Necessaries\learning\testSecurity1\testSecurity1\obj\Debug\testSecurity1.dll
+E:\Rubel_Necessaries\learning\testSecurity1\testSecurity1\obj\Debug\testSecurity1.pdb
+E:\Rubel_Necessaries\learning\testSecurity1\testSecurity1\obj\Debug\testSecurity1.csprojResolveAssemblyReference.cache
